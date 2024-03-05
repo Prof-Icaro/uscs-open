@@ -4,7 +4,6 @@ abcdefghijklmnopqrstuvwxyz
 
 windows, mac, linux 
 
-
 Java vs C#: A Batalha Épica dos Titãs da Programação
 No canto verde, com seus dreadlocks de código e aura de sabedoria ancestral, está o poderoso Java!
 
