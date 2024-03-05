@@ -8,14 +8,10 @@ windows, mac, linux
 Java vs C#: A Batalha Épica dos Titãs da Programação
 No canto verde, com seus dreadlocks de código e aura de sabedoria ancestral, está o poderoso Java!
 
-Criado pelos sábios da Oracle, Java é a linguagem mais popular do mundo, com milhões de linhas de código em seu legado.
-Robusto como um carvalho milenar, Java é a escolha ideal para aplicações complexas e de grande porte.
-Com seu sistema de coleta de lixo, Java te livra da árdua tarefa de gerenciar memória, permitindo que você se concentre no que realmente importa: criar software incrível.
+Criado pelos sábios da Oracle, Java é a linguagem mais popular do mundo, com milhões de linhas de código em seu legado. Robusto como um carvalho milenar, Java é a escolha ideal para aplicações complexas e de grande porte. Com seu sistema de coleta de lixo, Java te livra da árdua tarefa de gerenciar memória, permitindo que você se concentre no que realmente importa: criar softwares incríveis.
 No canto vermelho, com seu visual moderno e estilo impetuoso, surge o desafiante C#!
 
-C# é a arma secreta da Microsoft, uma linguagem versátil que domina o mundo Windows.
-Com sintaxe elegante e performance impecável, C# é perfeito para aplicações que exigem velocidade e fluidez.
-Sua integração com o .NET Framework e Visual Studio te dá acesso a um arsenal de ferramentas poderosas para impulsionar sua produtividade.
+C# é a arma secreta da Microsoft, uma linguagem versátil que domina o mundo Windows. Com sintaxe elegante e performance impecável, C# é perfeito para aplicações que exigem velocidade e fluidez. Sua integração com o .NET Framework e Visual Studio te dá acesso a um arsenal de ferramentas poderosas para impulsionar sua produtividade.
 A batalha começa!
 
 Java e C# travam uma disputa acirrada pelo título de melhor linguagem de programação. Cada um tem seus pontos fortes e fracos, e a escolha ideal depende das suas necessidades específicas.
