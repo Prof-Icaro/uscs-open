@@ -43,3 +43,5 @@ No final das contas, a única rivalidade que realmente importa é a sua busca in
 O futuro da programação está em suas mãos!
 
 Nosso grupo de PIM (HealthMe) optou por C#
+
+Os integrantes são: Jhulieny, Lucas Roberto, Natália Lopes, Renata, Vinícius de Oliveira, Wendell e Ygor
