@@ -45,6 +45,10 @@ No final das contas, a única rivalidade que realmente importa é a sua busca in
 O futuro da programação está em suas mãos!
 
 
--- Garbage Collector C# https://learn.microsoft.com/pt-br/dotnet/standard/garbage-collection/fundamentals
+## Garbage Collector
+ C# https://learn.microsoft.com/pt-br/dotnet/standard/garbage-collection/fundamentals
 
--- Recomendação de livros https://www.casadocodigo.com.br/
+## Recomendação de livros 
+ https://www.casadocodigo.com.br/
+
+## Acaba logo Faculadde kkk
