@@ -1,7 +1,5 @@
 HELLO WORLD
 
-abcdefghijklmnopqrstuvwxyz
-
 windows, mac, linux 
 
 
