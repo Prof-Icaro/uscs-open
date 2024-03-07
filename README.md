@@ -46,3 +46,5 @@ O futuro da programação está em suas mãos!
 
 
 -- Garbage Collector C# https://learn.microsoft.com/pt-br/dotnet/standard/garbage-collection/fundamentals
+
+-- Recomendação de livros https://www.casadocodigo.com.br/
